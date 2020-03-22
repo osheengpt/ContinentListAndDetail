@@ -1,2 +1,0 @@
-# ContinentListAndDetail
-Created with CodeSandbox
